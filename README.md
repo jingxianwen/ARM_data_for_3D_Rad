@@ -5,4 +5,4 @@ The input data are derived from ECWMF reanalysis (Wuyin Lin, BNL), and the radia
 Input data for radiation model is in SCM_IOP. Variables include: 
      T, Q, T_ground, P_lev, albedo, cloud_liq, cloud_ice, cloud_fraction, Relative_humidity.
 Observed radiation data is in awrqcrad1longM1.s2_rad_hourly. Variables include:
-     down_sw_surface, up_sw_surface, down_lw_surface, up_lw_surface, solar_zenith_angle
+     down_sw_surface, up_sw_surface, down_lw_surface, up_lw_surface, solar_zenith_angle.
