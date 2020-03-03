@@ -122,8 +122,8 @@ for imon in range(0,nm):
     #-write data
     down_sw[:]=down_sw_all[:]
     up_sw[:]=up_sw_all[:]
-    down_lw[:]=down_sw_all[:]
-    up_lw[:]=down_sw_all[:]
+    down_lw[:]=down_lw_all[:]
+    up_lw[:]=up_lw_all[:]
     zenith[:]=zenith_all[:]
     time[:]=time_all[:]
     lat[:]=lat_now
